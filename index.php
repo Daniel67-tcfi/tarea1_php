@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Index</title>
+    </head>
+</html>
+
+<?php
+echo "<body style='background-color:black;'>";
+echo "<b><h1><font color='white'>Bienvenido al index, haz clic al ejercicio que quieras ir.</font></h1></b>";
+echo "<a href='ejercicio1.html'><h2><font color='purple'>Ejercicio 1</font></h2></a>";
+echo "<a href='ejercicio2.html'><h2><font color='purple'>Ejercicio 2</font></h2></a>";
+echo "<a href='ejercicio3.html'><h2><font color='purple'>Ejercicio 3</font></h2></a>";
+echo "<a href='ejercicio4.html'><h2><font color='purple'>Ejercicio 4</font></h2></a>";
+echo "<a href='ejercicio5.html'><h2><font color='purple'>Ejercicio 5</font></h2></a>";
+echo "<a href='ejercicio6.html'><h2><font color='purple'>Ejercicio 6</font></h2></a>";
+echo "<a href='ejercicio7.html'><h2><font color='purple'>Ejercicio 7</font></h2></a>";
+echo "<a href='ejercicio8.html'><h2><font color='purple'>Ejercicio 8</font></h2></a>";
+echo "<a href='ejercicio9.html'><h2><font color='purple'>Ejercicio 9</font></h2></a>";
+echo "<a href='ejercicio10.html'><h2><font color='purple'>Ejercicio 10</font></h2></a>";
+echo "<a href='ejercicio11.html'><h2><font color='purple'>Ejercicio 11</font></h2></a>";
+echo "<a href='ejercicio12.html'><h2><font color='purple'>Ejercicio 12</font></h2></a>";
+echo "<a href='ejercicio13.html'><h2><font color='purple'>Ejercicio 13</font></h2></a>";
+echo "<a href='ejercicio14.html'><h2><font color='purple'>Ejercicio 14</font></h2></a>";
+echo "<a href='ejercicio15.html'><h2><font color='purple'>Ejercicio 15</font></h2></a>";
+echo "<a href='ejercicio16.html'><h2><font color='purple'>Ejercicio 16</font></h2></a>";
+echo "<a href='ejercicio17.html'><h2><font color='purple'>Ejercicio 17</font></h2></a>";
+echo "<a href='ejercicio18.html'><h2><font color='purple'>Ejercicio 18</font></h2></a>";
+echo "<a href='ejercicio19.html'><h2><font color='purple'>Ejercicio 19</font></h2></a>";
+echo "<a href='ejercicio20.html'><h2><font color='purple'>Ejercicio 20</font></h2></a>";
+echo "<a href='ejercicio21.html'><h2><font color='purple'>Ejercicio 21</font></h2></a>";
+echo "<a href='ejercicio22.html'><h2><font color='purple'>Ejercicio 22</font></h2></a>";
+echo "<a href='ejercicio23.html'><h2><font color='purple'>Ejercicio 23</font></h2></a>";
+echo "<a href='ejercicio24.html'><h2><font color='purple'>Ejercicio 24</font></h2></a>";
+echo "<a href='ejercicio25.html'><h2><font color='purple'>Ejercicio 25</font></h2></a>";
+?>
